@@ -36,6 +36,12 @@
 * Git vs SVN: https://juejin.cn/post/6844903619813179405
 * Learn Git Branching: https://learngitbranching.js.org/?locale=zh_CN
 
+## Golang
+
+* 基础: https://books.studygolang.com/gopl-zh/
+* 进阶: https://draveness.me/golang/
+* 参考文档: http://www.topgoer.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C/gorm/gorm%E7%94%A8%E6%B3%95%E4%BB%8B%E7%BB%8D.html
+
 # 第三讲
 
 ## 简历
