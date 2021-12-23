@@ -59,6 +59,10 @@
 * https://javaguide.cn/cs-basics/operating-system/linux-intro/
 * （Linux开发、运维）Shell脚本入门：https://github.com/Snailclimb/JavaGuide/blob/master/docs/operating-system/Shell.md
 
+# 第五讲
+
+* Linux在线：https://linuxcontainers.org/lxd/try-it/
+
 # 第六讲
 
 ## 计算机网络
