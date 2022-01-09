@@ -59,11 +59,15 @@
 * https://javaguide.cn/cs-basics/operating-system/linux-intro/
 * （Linux开发、运维）Shell脚本入门：https://github.com/Snailclimb/JavaGuide/blob/master/docs/operating-system/Shell.md
 
+# 第五讲
+
+* Linux在线：https://linuxcontainers.org/lxd/try-it/
+
 # 第六讲
 
 ## 计算机网络
 * 重要知识点总结：https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20-%20%E7%9B%AE%E5%BD%95.md
-* 面试常见考题：https://github.com/Snailclimb/JavaGuide/blob/master/docs/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md
+* 面试常见考题：https://javaguide.cn/cs-basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98/
 
 # 第八讲
 
