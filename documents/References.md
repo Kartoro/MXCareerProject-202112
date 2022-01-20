@@ -86,7 +86,14 @@
 * RPC简介：https://developer.51cto.com/art/201906/597963.htm
 * HTTP vs RPC：https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/distributed-system/rpc/%E6%9C%8D%E5%8A%A1%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B0%83%E7%94%A8%E4%B8%BA%E5%95%A5%E4%B8%8D%E7%9B%B4%E6%8E%A5%E7%94%A8HTTP%E8%80%8C%E7%94%A8RPC.md
 
-# 第十一讲 ~ 第十三讲
+# 第十一讲
+
+## 线程
+* 多线程基础：https://www.liaoxuefeng.com/wiki/1252599548343744/1304521607217185
+* 线程的生命周期: https://www.cnblogs.com/marsitman/p/11228684.html
+* 死锁：https://zhuanlan.zhihu.com/p/61221667
+
+# 第十二讲 ~ 第十四讲
 
 ## 树
 
@@ -102,7 +109,7 @@
 * SQL练习：http://xuesql.cn/lesson/select_queries_with_constraints_pt_2
 * 为什么SELECT * 效率低：https://zhuanlan.zhihu.com/p/149981715
 
-# 第十四讲
+# 第十五讲
 
 ## 堆
 
@@ -114,10 +121,6 @@
 * 内存结构：https://github.com/Snailclimb/JavaGuide#jvm-%E5%BF%85%E7%9C%8B-1
 * JVM虚拟机： https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA.md
 
-# 第十五讲
-
-* 多线程基础：https://www.liaoxuefeng.com/wiki/1252599548343744/1304521607217185
-
 # 第十六讲
 
 ## 设计模式：
@@ -128,7 +131,6 @@
 
 # 第十七讲
 
-* 多线程补充 - 死锁：https://zhuanlan.zhihu.com/p/61221667
 * 代码可读性：https://github.com/CyC2018/CS-Notes/blob/master/notes/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%AF%BB%E6%80%A7.md
 
 # 第十八讲
